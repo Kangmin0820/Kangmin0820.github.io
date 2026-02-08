@@ -17,9 +17,5 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
-Hi! I'm Kangmin Choi, an undergraduate student studying **Statistics** at **Fudan University**. I'm currently
-conducting research as an Undergraduate Research Assistant in the **FNLP Lab**, advised by **Prof. Xipeng Qiu**.
-[CV here](/assets/pdf/Resume_Kangmin_Choi.pdf).
-
-My research interests lie in Deep learning theory, Optimization and Reinforcement Learning. I ultmately aim to be a
-researcher who **bridge the gap between theory and practice**.
+Hi! I'm Kangmin Choi, an undergraduate student studying **Statistics** at **Fudan University**. 
+My research interests lie in Deep learning theory, Optimization and Reinforcement Learning. I ultmately aim to be a researcher who **bridge the gap between theory and practice**. [CV here](/assets/pdf/Resume_Kangmin_Choi.pdf).
